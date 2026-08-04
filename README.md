@@ -28,9 +28,9 @@
 
 [https://foro.ultimowow.com/files/file/144-drdamage/]
 
-## ElvUI
-
-[https://foro.ultimowow.com/files/file/160-elvui/]
+<!-- ## ElvUI -->
+<!---->
+<!-- [https://foro.ultimowow.com/files/file/160-elvui/] -->
 
 ## GearScore
 
@@ -44,9 +44,19 @@
 
 [https://foro.ultimowow.com/files/file/364-moveanything/]
 
-## Skada
+## Damage meter
+
+### Skada
 
 [https://foro.ultimowow.com/files/file/526-skada-damage-meter/]
+
+### Recount
+
+[https://foro.ultimowow.com/files/file/478-recount/]
+
+## Shadowed Unit Frames
+
+[https://foro.ultimowow.com/files/file/511-shadowed-unit-frames/]
 
 ## Talented
 
@@ -59,3 +69,7 @@
 ## WeakAuras
 
 [https://foro.ultimowow.com/files/file/646-weakauras/]
+
+## Quartz
+
+[https://foro.ultimowow.com/files/file/446-quartz/]
