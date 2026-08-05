@@ -12,6 +12,10 @@
 
 [https://foro.ultimowow.com/files/file/29-atlasloot-enhanced/]
 
+## Bagnon
+
+[https://foro.ultimowow.com/files/file/54-bagnon/]
+
 ## Carbonite
 
 [https://foro.ultimowow.com/files/file/93-carbonite/]
@@ -61,6 +65,10 @@
 ## Shadowed Unit Frames
 
 [https://foro.ultimowow.com/files/file/511-shadowed-unit-frames/]
+
+## SoundAlerter
+
+[https://foro.ultimowow.com/files/file/685-soundalerter/]
 
 ## Talented
 
